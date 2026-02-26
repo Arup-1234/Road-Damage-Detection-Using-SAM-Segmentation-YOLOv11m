@@ -1,4 +1,4 @@
-Road Damage Detection Using SAM Segmentation & YOLOv11m
+# Road Damage Detection Using SAM Segmentation & YOLOv11m
 This repository contains an automated pipeline for detecting and segmenting road hazards like cracks and potholes, specifically optimized for Indian road conditions. By combining YOLOv11m for real-time object detection and SAM (Segment Anything Model) for pixel-level segmentation, this project aims to replace manual, error-prone road inspections.
 +4
 
